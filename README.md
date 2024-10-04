@@ -1,0 +1,2 @@
+# MinTest
+testing mining project
